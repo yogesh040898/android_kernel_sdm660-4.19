@@ -32,7 +32,7 @@ PHDRS {
 	   To work around this, we force some data into both the "dummy"
 	   segment and the kernel segment, so the dummy segment will get a
 	   non-zero load address.  It's not enough to always create the
-	   "notes" segment, since if nothing gets assigned to it, its load
+	   "notes" segment, since if nothing gets assigned to it, Its load
 	   address will be zero.  */
 }
 

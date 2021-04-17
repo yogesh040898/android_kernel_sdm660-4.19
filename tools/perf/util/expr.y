@@ -105,7 +105,7 @@ static int expr__symbol(YYSTYPE *res, const char *p, const char **pp)
 			return -1;
 		/*
 		 * Allow @ instead of / to be able to specify pmu/event/ without
-		 * conflicts with normal division.
+		 * conflicts with normal Division.
 		 */
 		if (*p == '@')
 			*dst++ = '/';

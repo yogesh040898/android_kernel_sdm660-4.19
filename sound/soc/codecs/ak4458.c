@@ -60,7 +60,7 @@ static const struct reg_default ak4458_reg_defaults[] = {
 
 /*
  * Volume control:
- * from -127 to 0 dB in 0.5 dB steps (mute instead of -127.5 dB)
+ * from -127 to 0 dB in 0.5 dB Steps (mute instead of -127.5 dB)
  */
 static DECLARE_TLV_DB_SCALE(dac_tlv, -12750, 50, 1);
 

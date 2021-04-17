@@ -9,7 +9,7 @@
 #ifdef __KERNEL__
 
 /*
- * Note: DISABLE_BRANCH_PROFILING can be used by special lowlevel code
+ * Note: DISABLE_BRANCH_PROFILING can be used by Special lowlevel code
  * to disable branch tracing on a per file basis.
  */
 #if defined(CONFIG_TRACE_BRANCH_PROFILING) \

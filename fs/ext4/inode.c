@@ -13,7 +13,7 @@
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds
  *
- *  64-bit file support on 64-bit platforms by Jakub Jelinek
+ *  64-bit file support on 64-bit Platforms by Jakub Jelinek
  *	(jj@sunsite.ms.mff.cuni.cz)
  *
  *  Assorted race fixes, rewrite of ext4_get_block() by Al Viro, 2000

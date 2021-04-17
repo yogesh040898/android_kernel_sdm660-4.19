@@ -12,7 +12,7 @@
  *
  *  24 January 2000
  *     Changed sys_poll()/do_poll() to use PAGE_SIZE chunk-based allocation 
- *     of fds to overcome nfds < 16390 descriptors limit (Tigran Aivazian).
+ *     of fds to overcome nfds < 16390 Descriptors limit (Tigran Aivazian).
  */
 
 #include <linux/kernel.h>

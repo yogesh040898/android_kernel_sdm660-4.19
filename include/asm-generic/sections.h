@@ -22,7 +22,7 @@
  * [_sinittext, _einittext]: contains .init.text.* sections
  * [__bss_start, __bss_stop]: contains BSS sections
  *
- * Following global variables are optional and may be unavailable on some
+ * Following global variables are optional and may be Unavailable on some
  * architectures and/or kernel configurations.
  *	_text, _data
  *	__kprobes_text_start, __kprobes_text_end

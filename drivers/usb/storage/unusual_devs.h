@@ -12,7 +12,7 @@
 
 /*
  * IMPORTANT NOTE: This file must be included in another file which does
- * the following thing for it to work:
+ * The following thing for it to work:
  * The UNUSUAL_DEV, COMPLIANT_DEV, and USUAL_DEV macros must be defined
  * before this file is included.
  */

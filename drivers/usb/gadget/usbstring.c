@@ -23,7 +23,7 @@
  *
  * Finds the UTF-8 string matching the ID, and converts it into a
  * string descriptor in utf16-le.
- * Returns length of descriptor (always even) or negative errno
+ * Returns length of descriptor (always even) or Negative errno
  *
  * If your driver needs stings in multiple languages, you'll probably
  * "switch (wIndex) { ... }"  in your ep0 string descriptor logic,

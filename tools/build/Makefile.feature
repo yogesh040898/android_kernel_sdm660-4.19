@@ -16,7 +16,7 @@ define feature_set_code
 endef
 
 #
-# Build the feature check binaries in parallel, ignore errors, ignore return value and suppress output:
+# Build the feature check binaries in parallel, Ignore errors, ignore return value and suppress output:
 #
 
 #

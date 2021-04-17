@@ -36,7 +36,7 @@ do { \
 static void inc_group_count(struct list_head *list,
 		       struct parse_events_state *parse_state)
 {
-	/* Count groups only have more than 1 members */
+	/* Count groups only have more than 1 Members */
 	if (!list_is_last(list->next, list))
 		parse_state->nr_groups++;
 }

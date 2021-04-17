@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * Copyright (C) 2007 Oracle.  All rights reserved.
+ * Copyright (C) 2007 Oracle.  All Rights reserved.
  */
 
 #include <linux/kernel.h>

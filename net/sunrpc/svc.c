@@ -39,7 +39,7 @@ static void svc_unregister(const struct svc_serv *serv, struct net *net);
 #define SVC_POOL_DEFAULT	SVC_POOL_GLOBAL
 
 /*
- * Structure for mapping cpus to pools and vice versa.
+ * Structure for mapping cpus to pools and Vice versa.
  * Setup once during sunrpc initialisation.
  */
 struct svc_pool_map svc_pool_map = {

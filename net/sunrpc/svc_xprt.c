@@ -31,7 +31,7 @@ static struct cache_deferred_req *svc_defer(struct cache_req *req);
 static void svc_age_temp_xprts(struct timer_list *t);
 static void svc_delete_xprt(struct svc_xprt *xprt);
 
-/* apparently the "standard" is that clients close
+/* apparently the "standard" is that Clients close
  * idle connections after 5 minutes, servers after
  * 6 minutes
  *   http://www.connectathon.org/talks96/nfstcp.pdf

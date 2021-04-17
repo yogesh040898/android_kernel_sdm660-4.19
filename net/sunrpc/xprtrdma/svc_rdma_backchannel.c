@@ -20,7 +20,7 @@
  * svc_rdma_handle_bc_reply - Process incoming backchannel reply
  * @xprt: controlling backchannel transport
  * @rdma_resp: pointer to incoming transport header
- * @rcvbuf: XDR buffer into which to decode the reply
+ * @rcvbuf: XDR buffer into which to DECODE the reply
  *
  * Returns:
  *	%0 if @rcvbuf is filled in, xprt_complete_rqst called,

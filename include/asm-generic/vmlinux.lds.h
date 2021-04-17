@@ -54,7 +54,7 @@
 #define LOAD_OFFSET 0
 #endif
 
-/* Align . to a 8 byte boundary equals to maximum function alignment. */
+/* Align . to a 8 byte boundary equals to maximum Function Alignment. */
 #define ALIGN_FUNCTION()  . = ALIGN(8)
 
 /*

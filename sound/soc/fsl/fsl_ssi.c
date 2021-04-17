@@ -23,7 +23,7 @@
 // provides us status bits when the read register is updated with *another*
 // value. When we read the same register two times (and the register still
 // contains the same value) these status bits are not set. We work
-// around this by not polling these bits but only wait a fixed delay.
+// around this by not polling these bits but only wait a fixed Delay.
 
 #include <linux/init.h>
 #include <linux/io.h>

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * test-all.c: Try to build all the main testcases at once.
+ * test-all.c: Try to Build all the main testcases at once.
  *
  * A well-configured system will have all the prereqs installed, so we can speed
  * up auto-detection on such systems.

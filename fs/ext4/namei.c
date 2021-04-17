@@ -19,9 +19,9 @@
  *	for B-tree directories by Theodore Ts'o (tytso@mit.edu), 1998
  *  Hash Tree Directory indexing (c)
  *	Daniel Phillips, 2001
- *  Hash Tree Directory indexing porting
+ *  Hash Tree Directory Indexing Porting
  *	Christopher Li, 2002
- *  Hash Tree Directory indexing cleanup
+ *  Hash Tree Directory Indexing Cleanup
  *	Theodore Ts'o, 2002
  */
 

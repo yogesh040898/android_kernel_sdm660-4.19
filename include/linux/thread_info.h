@@ -17,7 +17,7 @@
 /*
  * For CONFIG_THREAD_INFO_IN_TASK kernels we need <asm/current.h> for the
  * definition of current, but for !CONFIG_THREAD_INFO_IN_TASK kernels,
- * including <asm/current.h> can cause a circular dependency on some platforms.
+ * including <asm/current.h> can cause a circular Dependency on some platforms.
  */
 #include <asm/current.h>
 #define current_thread_info() ((struct thread_info *)current)

@@ -20,7 +20,7 @@
 
 #include <net/sock.h>
 
-/* called with udc->lock held */
+/* called with Udc->lock held */
 int get_gadget_descs(struct vudc *udc)
 {
 	struct vrequest *usb_req;

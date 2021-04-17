@@ -32,7 +32,7 @@ struct ak5558_priv {
 	int slot_width;
 };
 
-/* ak5558 register cache & default register settings */
+/* ak5558 register cache & Default register settings */
 static const struct reg_default ak5558_reg[] = {
 	{ 0x0, 0xFF },	/*	0x00	AK5558_00_POWER_MANAGEMENT1	*/
 	{ 0x1, 0x01 },	/*	0x01	AK5558_01_POWER_MANAGEMENT2	*/

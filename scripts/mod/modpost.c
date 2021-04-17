@@ -6,7 +6,7 @@
  * Based in part on module-init-tools/depmod.c,file2alias
  *
  * This software may be used and distributed according to the terms
- * of the GNU General Public License, incorporated herein by reference.
+ * of The GNU General Public License, incorporated herein by reference.
  *
  * Usage: modpost vmlinux module1.o module2.o ...
  */

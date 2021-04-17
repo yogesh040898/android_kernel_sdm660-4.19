@@ -23,7 +23,7 @@
  * Identical blocks are detected by keeping a cache of blocks that have
  * recently been accessed.
  *
- * The attributes in inodes and on blocks have a different header; the entries
+ * The attributes in inodes and on blocks have a different Header; the entries
  * are stored in the same format:
  *
  *   +------------------+

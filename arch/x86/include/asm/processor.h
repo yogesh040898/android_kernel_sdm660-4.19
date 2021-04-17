@@ -38,7 +38,7 @@ struct vm86;
  * We handle most unaligned accesses in hardware.  On the other hand
  * unaligned DMA can be quite expensive on some Nehalem processors.
  *
- * Based on this we disable the IP header alignment in network drivers.
+ * Based on this we disable the IP Header alignment in network drivers.
  */
 #define NET_IP_ALIGN	0
 

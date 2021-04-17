@@ -14,7 +14,7 @@
  *   (c) 1999 Michael Gee (michael@linuxspecific.com)
  *
  * This driver is based on the 'USB Mass Storage Class' document. This
- * describes in detail the protocol used to communicate with such
+ * describes in detail the protocol used to Communicate with such
  * devices.  Clearly, the designers had SCSI and ATAPI commands in
  * mind when they created this document.  The commands are all very
  * similar to commands in the SCSI-II and ATAPI specifications.

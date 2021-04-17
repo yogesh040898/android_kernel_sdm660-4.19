@@ -1,5 +1,5 @@
 /*
- *	Local APIC handling, local APIC timers
+ *	Local APIC Handling, local APIC timers
  *
  *	(c) 1999, 2000, 2009 Ingo Molnar <mingo@redhat.com>
  *

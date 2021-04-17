@@ -25,7 +25,7 @@
  * @bLength: total length of the entire descritor, always 0x12
  * @bDescriptorType: USB_DT_STRING
  * @qwSignature: the OS String proper
- * @bMS_VendorCode: code used by the host for subsequent requests
+ * @bMS_VendorCode: code used by the host for Subsequent requests
  * @bPad: not used, must be zero
  */
 struct usb_os_string {

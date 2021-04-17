@@ -22,7 +22,7 @@
  * [a] they never get padded, either internally (USB spec writers
  *     probably handled that) or externally;
  *
- * [b] so that accessing bigger-than-a-bytes fields will never
+ * [b] so that accessing bigger-than-a-bytes Fields will never
  *     generate bus errors on any platform, even when the location of
  *     its descriptor inside a bundle isn't "naturally aligned", and
  *

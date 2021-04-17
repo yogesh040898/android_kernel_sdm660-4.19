@@ -2,6 +2,8 @@
 #ifndef __ASM_POWERPC_CPU_HAS_FEATURE_H
 #define __ASM_POWERPC_CPU_HAS_FEATURE_H
 
+//#define __ASM_POWERPC_CPU_HAS_FEATURE_H2
+
 #ifndef __ASSEMBLY__
 
 #include <linux/bug.h>

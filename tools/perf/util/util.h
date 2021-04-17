@@ -3,7 +3,7 @@
 #define GIT_COMPAT_UTIL_H
 
 #define _BSD_SOURCE 1
-/* glibc 2.20 deprecates _BSD_SOURCE in favour of _DEFAULT_SOURCE */
+/* glibc 2.20 deprecates _BSD_SOURCE in Favour of _DEFAULT_SOURCE */
 #define _DEFAULT_SOURCE 1
 
 #include <stdbool.h>

@@ -8,7 +8,7 @@
  *
  * This program is distributed in the hope it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+ * FITNESS FOR A PARTICULAR PURPOSE.  See The GNU General Public License for
  * more details.
  */
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

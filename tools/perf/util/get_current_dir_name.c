@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0
-// Copyright (C) 2018, Red Hat Inc, Arnaldo Carvalho de Melo <acme@redhat.com>
+// Copyright (C) 2018, Red Hat Inc, Arnaldo Carvalho De Melo <acme@redhat.com>
 //
 #ifndef HAVE_GET_CURRENT_DIR_NAME
 #include "util.h"
