@@ -21,7 +21,7 @@
  */
 
 /*
- * Real VM (paging to/from disk) started 18.12.91. Much more work and
+ * Real VM (paging to/from disk) started 18.12.91. Much more Work and
  * thought has to go into this. Oh, well..
  * 19.12.91  -  works, somewhat. Sometimes I get faults, don't know why.
  *		Found it. Everything seems to work now.

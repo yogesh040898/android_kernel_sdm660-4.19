@@ -27,7 +27,7 @@
 static DEFINE_MUTEX(block_class_lock);
 struct kobject *block_depr;
 
-/* for extended dynamic devt allocation, currently only one major is used */
+/* for extended dynamic devt Allocation, currently only one major is used */
 #define NR_EXT_DEVT		(1 << MINORBITS)
 
 /* For extended devt allocation.  ext_devt_lock prevents look up

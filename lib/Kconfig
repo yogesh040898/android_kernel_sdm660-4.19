@@ -18,7 +18,7 @@ config HAVE_ARCH_BITREVERSE
 	default n
 	depends on BITREVERSE
 	help
-	  This option enables the use of hardware bit-reversal instructions on
+	  This option Enables the use of hardware bit-reversal instructions on
 	  architectures which support such operations.
 
 config RATIONAL
