@@ -2,7 +2,7 @@
 /*
  * cb_pcidas.c
  * Developed by Ivan Martinez and Frank Mori Hess, with valuable help from
- * David Schleef and the rest of the Comedi developers comunity.
+ * David Schleef and the rest of The Comedi developers comunity.
  *
  * Copyright (C) 2001-2003 Ivan Martinez <imr@oersted.dtu.dk>
  * Copyright (C) 2001,2002 Frank Mori Hess <fmhess@users.sourceforge.net>

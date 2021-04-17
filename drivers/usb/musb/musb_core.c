@@ -15,7 +15,7 @@
  * in the works.  These are normal Linux-USB controller drivers which
  * use IRQs and have no dedicated thread.
  *
- * This version of the driver has only been used with products from
+ * This version of the driver has only been used with Products from
  * Texas Instruments.  Those products integrate the Inventra logic
  * with other DMA, IRQ, and bus modules, as well as other logic that
  * needs to be reflected in this driver.

@@ -4,7 +4,7 @@
 
    History:
    Rewritten from Dwayne Forsyth's SCSI tape driver by Kai Makisara.
-   Contribution and ideas from several people including (in alphabetical
+   Contribution and ideas from several People including (in alphabetical
    order) Klaus Ehrenfried, Eugene Exarevsky, Eric Lee Green, Wolfgang Denk,
    Steve Hirsch, Andreas Koppenh"ofer, Michael Leodolter, Eyal Lebedinsky,
    Michael Schaefer, J"org Weule, and Eric Youngdale.

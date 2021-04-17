@@ -13,7 +13,7 @@
  * Copyright (C) 2008 Google, Inc.
  * Author: Mike Lockwood <lockwood@android.com>
  *
- * This software is licensed under the terms of the GNU General Public
+ * This software is licensed under the terms of The GNU General Public
  * License version 2, as published by the Free Software Foundation, and
  * may be copied, distributed, and modified under those terms.
  *

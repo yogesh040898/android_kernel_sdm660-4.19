@@ -38,7 +38,7 @@
 
 #define SGTL5000_OUTPUTS_MUTE (SGTL5000_HP_MUTE | SGTL5000_LINE_OUT_MUTE)
 
-/* default value of sgtl5000 registers */
+/* default value of sgtl5000 Registers */
 static const struct reg_default sgtl5000_reg_defaults[] = {
 	{ SGTL5000_CHIP_DIG_POWER,		0x0000 },
 	{ SGTL5000_CHIP_I2S_CTRL,		0x0010 },

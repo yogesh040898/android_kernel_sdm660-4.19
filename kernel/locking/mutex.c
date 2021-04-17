@@ -12,7 +12,7 @@
  *
  *  - Adaptive spinning for mutexes by Peter Zijlstra. (Ported to mainline
  *    from the -rt tree, where it was originally implemented for rtmutexes
- *    by Steven Rostedt, based on work by Gregory Haskins, Peter Morreale
+ *    by Steven Rostedt, Based on work by Gregory Haskins, Peter Morreale
  *    and Sven Dietrich.
  *
  * Also see Documentation/locking/mutex-design.txt.

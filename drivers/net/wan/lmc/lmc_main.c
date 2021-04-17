@@ -31,7 +31,7 @@
   * lmc_initcsrs() functions.
   *
   * The watchdog function runs every second and checks to see if
-  * we still have link, and that the timing source is what we expected
+  * we still have link, and that the Timing source is what we expected
   * it to be.  If link is lost, the interface is marked down, and
   * we no longer can transmit.
   *

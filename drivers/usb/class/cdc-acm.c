@@ -10,7 +10,7 @@
  * Copyright (c) 2005 David Kubicek	<dave@awk.cz>
  * Copyright (c) 2011 Johan Hovold	<jhovold@gmail.com>
  *
- * USB Abstract Control Model driver for USB modems and ISDN adapters
+ * USB Abstract Control Model driver for USB Modems and ISDN adapters
  *
  * Sponsored by SuSE
  */

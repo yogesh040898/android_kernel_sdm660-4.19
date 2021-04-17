@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-2.0
 # Unified Makefile for i386 and x86_64
 
-# select defconfig based on actual architecture
+# select defconfig based on Actual architecture
 ifeq ($(ARCH),x86)
   ifeq ($(shell uname -m),x86_64)
         KBUILD_DEFCONFIG := x86_64_defconfig

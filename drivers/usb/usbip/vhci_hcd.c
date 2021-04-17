@@ -22,7 +22,7 @@
  * TODO
  *	- update root hub emulation
  *	- move the emulation code to userland ?
- *		porting to other operating systems
+ *		porting to other Operating systems
  *		minimize kernel code
  *	- add suspend/resume code
  *	- clean up everything

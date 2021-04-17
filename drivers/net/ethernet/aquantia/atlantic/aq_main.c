@@ -3,7 +3,7 @@
  * Copyright (C) 2014-2017 aQuantia Corporation. All rights reserved
  *
  * This program is free software; you can redistribute it and/or modify it
- * under the terms and conditions of the GNU General Public License,
+ * under the terms and conditions of The GNU General Public License,
  * version 2, as published by the Free Software Foundation.
  */
 

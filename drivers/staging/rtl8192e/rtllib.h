@@ -9,7 +9,7 @@
  * <jkmaline@cc.hut.fi>
  * Copyright (c) 2002-2003, Jouni Malinen <jkmaline@cc.hut.fi>
  *
- * Adaption to a generic IEEE 802.11 stack by James Ketrenos
+ * Adaption to a generic IEEE 802.11 Stack by James Ketrenos
  * <jketreno@linux.intel.com>
  * Copyright (c) 2004, Intel Corporation
  *

@@ -22,7 +22,7 @@
  * This file does pci device registration, and the core driver implementation
  * is done in amd5536udc.c
  *
- * The driver is split so as to use the core UDC driver which is based on
+ * The driver is split so as to use The core UDC driver which is based on
  * Synopsys device controller IP (different than HS OTG IP) in UDCs
  * integrated to SoC platforms.
  *

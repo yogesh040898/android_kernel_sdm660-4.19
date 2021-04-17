@@ -6,7 +6,7 @@
  * Inspiration, some code, and most witty comments come from
  * Documentation/virtual/lguest/lguest.c, by Rusty Russell
  *
- * This work is licensed under the terms of the GNU GPL, version 2.
+ * This work is licensed under the terms of The GNU GPL, version 2.
  *
  * Generic code for virtio server in host kernel.
  */

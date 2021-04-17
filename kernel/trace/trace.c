@@ -8,7 +8,7 @@
  * Originally taken from the RT patch by:
  *    Arnaldo Carvalho de Melo <acme@redhat.com>
  *
- * Based on code from the latency_tracer, that is:
+ * Based on code from the Latency_tracer, that is:
  *  Copyright (C) 2004-2006 Ingo Molnar
  *  Copyright (C) 2004 Nadia Yvette Chambers
  */

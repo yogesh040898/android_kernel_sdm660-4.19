@@ -4,7 +4,7 @@
  * Copyright (C) 2007-2013 VMware, Inc. All rights reserved.
  *
  * This program is free software; you can redistribute it and/or modify it
- * under the terms of the GNU General Public License as published by the Free
+ * under the terms of The GNU General Public License as published by the Free
  * Software Foundation version 2 and no later version.
  *
  * This program is distributed in the hope that it will be useful, but WITHOUT

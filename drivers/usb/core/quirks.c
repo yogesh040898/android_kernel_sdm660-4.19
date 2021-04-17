@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * USB device quirk handling logic and table
+ * USB device quirk handling Logic and Table
  *
  * Copyright (c) 2007 Oliver Neukum
  * Copyright (c) 2007 Greg Kroah-Hartman <gregkh@suse.de>

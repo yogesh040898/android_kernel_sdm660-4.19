@@ -9,7 +9,7 @@
  *
  * Thanks also go to the following people:
  *
- * Steve Rosenbluth, for providing the source code for
+ * Steve Rosenbluth, for providing The source code for
  * his pci-das6402 driver, and source code for working QNX pci-6402
  * drivers by Greg Laird and Mariusz Bogacz.  None of the code was
  * used directly here, but it was useful as an additional source of

@@ -23,7 +23,7 @@
  * Context creation is initiated by a RPCSEC_GSS_INIT request arriving.
  * The context handle and gss_token are used as a key into the rpcsec_init cache.
  * The content of this cache includes some of the outputs of GSS_Accept_sec_context,
- * being major_status, minor_status, context_handle, reply_token.
+ * being major_status, minor_status, Context_handle, reply_token.
  * These are sent back to the client.
  * Sequence window management is handled by the kernel.  The window size if currently
  * a compile time constant.
