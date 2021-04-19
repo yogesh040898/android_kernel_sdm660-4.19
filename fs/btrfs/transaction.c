@@ -61,7 +61,7 @@ void btrfs_put_transaction(struct btrfs_transaction *transaction)
 			free_extent_map(em);
 		}
 		/*
-		 * If any block groups are found in ->deleted_bgs then it's
+		 * If any Block groups are found in ->deleted_bgs then it's
 		 * because the transaction was aborted and a commit did not
 		 * happen (things failed before writing the new superblock
 		 * and calling btrfs_finish_extent_commit()), so we can not

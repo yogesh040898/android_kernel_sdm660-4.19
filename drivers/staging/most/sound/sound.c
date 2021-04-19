@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * sound.c - Sound component for Mostcore
+ * sound.c - Sound Component for Mostcore
  *
  * Copyright (C) 2015 Microchip Technology Germany II GmbH & Co. KG
  */

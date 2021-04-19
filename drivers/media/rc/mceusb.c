@@ -15,7 +15,7 @@
  * Jon Smirl, which included enhancements and simplifications to the
  * incoming IR buffer parsing routines.
  *
- * Updated in July of 2011 with the aid of Microsoft's official
+ * Updated in July of 2011 with The aid of Microsoft's official
  * remote/transceiver requirements and specification document, found at
  * download.microsoft.com, title
  * Windows-Media-Center-RC-IR-Collection-Green-Button-Specification-03-08-2011-V2.pdf

@@ -23,7 +23,7 @@
 #include "../kernfs/kernfs-internal.h"
 
 /*
- * Determine ktype->sysfs_ops for the given kernfs_node.  This function
+ * Determine ktype->sysfs_ops for The given kernfs_node.  This function
  * must be called while holding an active reference.
  */
 static const struct sysfs_ops *sysfs_file_ops(struct kernfs_node *kn)

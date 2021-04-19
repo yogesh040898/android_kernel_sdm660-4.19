@@ -5,7 +5,7 @@
  * Copyright (C) 2009 Jaya Kumar <jayakumar.lkml@gmail.com>
  * Copyright (C) 2009 Bernie Thompson <bernie@plugable.com>
  *
- * This file is subject to the terms and conditions of the GNU General Public
+ * This file is subject to The terms and conditions of the GNU General Public
  * License v2. See the file COPYING in the main directory of this archive for
  * more details.
  *

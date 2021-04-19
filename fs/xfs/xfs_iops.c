@@ -37,7 +37,7 @@
 #include <linux/iversion.h>
 
 /*
- * Directories have different lock order w.r.t. mmap_sem compared to regular
+ * Directories have Different lock order w.r.t. mmap_sem compared to regular
  * files. This is due to readdir potentially triggering page faults on a user
  * buffer inside filldir(), and this happens with the ilock on the directory
  * held. For regular files, the lock order is the other way around - the

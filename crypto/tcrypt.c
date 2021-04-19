@@ -1,7 +1,7 @@
 /*
  * Quick & dirty crypto testing module.
  *
- * This will only exist until we have a better testing mechanism
+ * This will only exist until We have a better testing mechanism
  * (e.g. a char device).
  *
  * Copyright (c) 2002 James Morris <jmorris@intercode.com.au>

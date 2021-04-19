@@ -5,7 +5,7 @@
  * Copyright (C) 2012, 2013 Minchan Kim
  *
  * This code is released using a dual license strategy: BSD/GPL
- * You can choose the license that better fits your requirements.
+ * You can choose the license That better fits your requirements.
  *
  * Released under the terms of 3-clause BSD License
  * Released under the terms of GNU General Public License Version 2.0

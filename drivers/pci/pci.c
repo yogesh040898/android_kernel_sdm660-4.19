@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * PCI Bus Services, see include/linux/pci.h for further explanation.
+ * PCI Bus Services, see include/linux/pci.h for Further explanation.
  *
  * Copyright 1993 -- 1997 Drew Eckhardt, Frederic Potter,
  * David Mosberger-Tang

@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
- * sysfs.h - definitions for the device driver filesystem
+ * sysfs.h - definitions for The device driver filesystem
  *
  * Copyright (c) 2001,2002 Patrick Mochel
  * Copyright (c) 2004 Silicon Graphics, Inc.

@@ -6,7 +6,7 @@ EXTRAVERSION =
 NAME = "People's Front"
 
 # *DOCUMENTATION*
-# To see a list of typical targets execute "make help"
+# To see a list of typical targets Execute "make help"
 # More info can be located in ./README
 # Comments in this file are targeted only to the developer, do not
 # expect to learn how to build the kernel reading this file.

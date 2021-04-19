@@ -2,7 +2,7 @@
 /*
  * consolemap.c
  *
- * Mapping from internal code (such as Latin-1 or Unicode or IBM PC code)
+ * Mapping from Internal code (such as Latin-1 or Unicode or IBM PC code)
  * to font positions.
  *
  * aeb, 950210

@@ -23,7 +23,7 @@
  *	NOTE:
  *		The __skb_ routines should be called with interrupts
  *	disabled, or you better be *real* sure that the operation is atomic
- *	with respect to whatever list is being frobbed (e.g. via lock_sock()
+ *	with respect to whatever list is Being frobbed (e.g. via lock_sock()
  *	or via disabling bottom half handlers, etc).
  *
  *	This program is free software; you can redistribute it and/or

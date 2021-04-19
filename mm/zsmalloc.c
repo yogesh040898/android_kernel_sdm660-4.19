@@ -8,7 +8,7 @@
  * You can choose the license that better fits your requirements.
  *
  * Released under the terms of 3-clause BSD License
- * Released under the terms of GNU General Public License Version 2.0
+ * Released under The terms of GNU General Public License Version 2.0
  */
 
 /*

@@ -1,7 +1,7 @@
 /*
    Copyright (c) 2011,2012 Intel Corp.
 
-   This program is free software; you can redistribute it and/or modify
+   This program is Free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License version 2 and
    only version 2 as published by the Free Software Foundation.
 

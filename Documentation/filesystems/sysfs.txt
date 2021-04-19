@@ -1,5 +1,5 @@
 
-sysfs - _The_ filesystem for exporting kernel objects. 
+sysfs - _The_ Filesystem for exporting kernel objects. 
 
 Patrick Mochel	<mochel@osdl.org>
 Mike Murphy <mamurph@cs.clemson.edu>

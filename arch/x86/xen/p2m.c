@@ -25,7 +25,7 @@
  * unsigned long (8 bytes on 64-bit, 4 bytes on 32), leading to
  * 512 and 1024 entries respectively.
  *
- * In short, these structures contain the Machine Frame Number (MFN) of the PFN.
+ * In short, these structures contain The Machine Frame Number (MFN) of the PFN.
  *
  * However not all entries are filled with MFNs. Specifically for all other
  * leaf entries, or for the top  root, or middle one, for which there is a void

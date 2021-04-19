@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * ccw based virtio transport
+ * ccw based virtio Transport
  *
  * Copyright IBM Corp. 2012, 2014
  *
