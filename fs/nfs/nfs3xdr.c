@@ -29,7 +29,7 @@
 #define errno_NFSERR_IO		EIO
 
 /*
- * Declare the space requirements for NFS arguments and replies as
+ * Declare the space Requirements for NFS arguments and replies as
  * number of 32bit-words
  */
 #define NFS3_fhandle_sz		(1+16)

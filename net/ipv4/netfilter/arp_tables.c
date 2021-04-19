@@ -1,7 +1,7 @@
 /*
  * Packet matching code for ARP packets.
  *
- * Based heavily, if not almost entirely, upon ip_tables.c framework.
+ * Based heavily, if not almost entirely, Upon ip_tables.c framework.
  *
  * Some ARP specific bits are:
  *

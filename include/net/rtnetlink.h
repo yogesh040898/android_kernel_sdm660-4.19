@@ -29,7 +29,7 @@ static inline int rtnl_msg_family(const struct nlmsghdr *nlh)
 }
 
 /**
- *	struct rtnl_link_ops - rtnetlink link operations
+ *	struct rtnl_link_ops - rtnetlink link Operations
  *
  *	@list: Used internally
  *	@kind: Identifier

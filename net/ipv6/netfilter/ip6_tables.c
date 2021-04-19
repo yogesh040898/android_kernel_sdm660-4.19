@@ -6,7 +6,7 @@
  * Copyright (c) 2006-2010 Patrick McHardy <kaber@trash.net>
  *
  * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 2 as
+ * it under the terms of The GNU General Public License version 2 as
  * published by the Free Software Foundation.
  */
 

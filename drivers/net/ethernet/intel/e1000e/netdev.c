@@ -108,7 +108,7 @@ static const struct e1000_reg_info e1000_reg_info_tbl[] = {
 };
 
 /**
- * __ew32_prepare - prepare to write to MAC CSR register on certain parts
+ * __ew32_prepare - prepare to Write to MAC CSR register on certain parts
  * @hw: pointer to the HW structure
  *
  * When updating the MAC CSR registers, the Manageability Engine (ME) could

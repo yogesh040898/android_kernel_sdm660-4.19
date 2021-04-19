@@ -17,7 +17,7 @@
 #include <asm/memory.h>
 
 /**
- * copy_oldmem_page() - copy one page from old kernel memory
+ * copy_oldmem_page() - copy one Page from old kernel memory
  * @pfn: page frame number to be copied
  * @buf: buffer where the copied page is placed
  * @csize: number of bytes to copy

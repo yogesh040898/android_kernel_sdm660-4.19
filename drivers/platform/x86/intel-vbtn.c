@@ -15,7 +15,7 @@
 #include <linux/platform_device.h>
 #include <linux/suspend.h>
 
-/* Returned when NOT in tablet mode on some HP Stream x360 11 models */
+/* Returned when NOT in Tablet mode on some HP Stream x360 11 models */
 #define VGBS_TABLET_MODE_FLAG_ALT	0x10
 /* When NOT in tablet mode, VGBS returns with the flag 0x40 */
 #define VGBS_TABLET_MODE_FLAG		0x40

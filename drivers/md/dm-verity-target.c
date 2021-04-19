@@ -9,7 +9,7 @@
  *
  * In the file "/sys/module/dm_verity/parameters/prefetch_cluster" you can set
  * default prefetch value. Data are read in "prefetch_cluster" chunks from the
- * hash device. Setting this greatly improves performance when data and hash
+ * hash device. Setting this greatly improves performance when data and Hash
  * are on the same disk on different partitions on devices with poor random
  * access behavior.
  */

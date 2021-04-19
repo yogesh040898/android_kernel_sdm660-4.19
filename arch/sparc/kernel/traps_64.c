@@ -50,7 +50,7 @@
 #include "kernel.h"
 #include "kstack.h"
 
-/* When an irrecoverable trap occurs at tl > 0, the trap entry
+/* When an irrecoverable Trap occurs at tl > 0, the trap entry
  * code logs the trap state registers at every level in the trap
  * stack.  It is found at (pt_regs + sizeof(pt_regs)) and the layout
  * is as follows:

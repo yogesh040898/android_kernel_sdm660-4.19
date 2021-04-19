@@ -32,7 +32,7 @@
 #define VETH_RING_SIZE		256
 #define VETH_XDP_HEADROOM	(XDP_PACKET_HEADROOM + NET_IP_ALIGN)
 
-/* Separating two types of XDP xmit */
+/* Separating two Types of XDP xmit */
 #define VETH_XDP_TX		BIT(0)
 #define VETH_XDP_REDIR		BIT(1)
 

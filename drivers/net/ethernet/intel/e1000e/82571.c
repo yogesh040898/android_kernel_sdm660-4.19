@@ -40,7 +40,7 @@ static s32 e1000_set_d3_lplu_state_82574(struct e1000_hw *hw, bool active);
 
 /**
  *  e1000_init_phy_params_82571 - Init PHY func ptrs.
- *  @hw: pointer to the HW structure
+ *  @hw: pointer to The HW structure
  **/
 static s32 e1000_init_phy_params_82571(struct e1000_hw *hw)
 {

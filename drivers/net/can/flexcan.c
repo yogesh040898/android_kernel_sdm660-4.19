@@ -7,7 +7,7 @@
 // Copyright (c) 2010-2017 Pengutronix, Marc Kleine-Budde <kernel@pengutronix.de>
 // Copyright (c) 2014 David Jander, Protonic Holland
 //
-// Based on code originally by Andrey Volkov <avolkov@varma-el.com>
+// Based on code Originally by Andrey Volkov <avolkov@varma-el.com>
 
 #include <linux/netdevice.h>
 #include <linux/can.h>

@@ -15,7 +15,7 @@
 /**
  * struct xt_action_param - parameters for matches/targets
  *
- * @match:	the match extension
+ * @match:	the match Extension
  * @target:	the target extension
  * @matchinfo:	per-match data
  * @targetinfo:	per-target data

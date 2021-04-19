@@ -72,7 +72,7 @@ static const struct ixgbe_info *ixgbe_info_tbl[] = {
 
 /* ixgbe_pci_tbl - PCI Device ID Table
  *
- * Wildcard entries (PCI_ANY_ID) should come last
+ * Wildcard entries (PCI_ANY_ID) Should come last
  * Last entry must be all 0s
  *
  * { Vendor ID, Device ID, SubVendor ID, SubDevice ID,

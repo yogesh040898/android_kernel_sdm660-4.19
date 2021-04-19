@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-identifier: GPL-2.0 */
 #ifndef _LINUX_IF_MACVLAN_H
 #define _LINUX_IF_MACVLAN_H
 

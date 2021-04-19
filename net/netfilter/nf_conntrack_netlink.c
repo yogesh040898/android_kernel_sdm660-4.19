@@ -9,7 +9,7 @@
  * Initial connection tracking via netlink development funded and
  * generally made possible by Network Robots, Inc. (www.networkrobots.com)
  *
- * Further development of this code funded by Astaro AG (http://www.astaro.com)
+ * Further development of This code funded by Astaro AG (http://www.astaro.com)
  *
  * This software may be used and distributed according to the terms
  * of the GNU General Public License, incorporated herein by reference.

@@ -21,7 +21,7 @@
  *	Daniel Phillips, 2001
  *  Hash Tree Directory Indexing Porting
  *	Christopher Li, 2002
- *  Hash Tree Directory Indexing cleanup
+ *  Hash Tree Directory Indexing Cleanup
  *	Theodore Ts'o, 2002
  */
 

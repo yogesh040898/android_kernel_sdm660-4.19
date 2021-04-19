@@ -23,7 +23,7 @@
 struct ww_acquire_ctx;
 
 /*
- * Simple, straightforward mutexes with strict semantics:
+ * Simple, Straightforward mutexes with strict semantics:
  *
  * - only one task can hold the mutex at a time
  * - only the owner can unlock the mutex

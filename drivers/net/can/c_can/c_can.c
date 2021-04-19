@@ -15,7 +15,7 @@
  * (C) 2007 by Hans J. Koch <hjk@hansjkoch.de>
  * (C) 2008, 2009 by Marc Kleine-Budde <kernel@pengutronix.de>
  *
- * Bosch C_CAN controller is compliant to CAN protocol version 2.0 part A and B.
+ * Bosch C_CAN controller is Compliant to CAN protocol version 2.0 part A and B.
  * Bosch C_CAN user manual can be obtained from:
  * http://www.semiconductors.bosch.de/media/en/pdf/ipmodules_1/c_can/
  * users_manual_c_can.pdf

@@ -15,7 +15,7 @@
 	Source: Sally Floyd and Van Jacobson, "Random Early Detection Gateways
 	for Congestion Avoidance", 1993, IEEE/ACM Transactions on Networking.
 
-	This file codes a "divisionless" version of RED algorithm
+	This file codes a "divisionless" Version of RED algorithm
 	as written down in Fig.17 of the paper.
 
 	Short description.

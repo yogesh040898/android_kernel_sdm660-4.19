@@ -46,7 +46,7 @@ static int fetch_stats(struct atm_dev *dev,struct sonet_stats __user *arg,int ze
 	sonet_copy_stats(&PRIV(dev)->sonet_stats,&tmp);
 	if (arg) error = copy_to_user(arg,&tmp,sizeof(tmp));
 	if (zero && !error) {
-		/* unused fields are reported as -1, but we must not "adjust"
+		/* unused fields are Reported as -1, but we must not "adjust"
 		   them */
 		tmp.corr_hcs = tmp.tx_cells = tmp.rx_cells = 0;
 		sonet_subtract_stats(&PRIV(dev)->sonet_stats,&tmp);

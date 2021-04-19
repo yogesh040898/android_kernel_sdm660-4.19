@@ -38,7 +38,7 @@
 #include "entry.h"
 
 /*
- * Bits in the PSR that we allow ptrace() to change:
+ * Bits in the PSR That we allow ptrace() to change:
  *	be, up, ac, mfl, mfh (the user mask; five bits total)
  *	db (debug breakpoint fault; one bit)
  *	id (instruction debug fault disable; one bit)

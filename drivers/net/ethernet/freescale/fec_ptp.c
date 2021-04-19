@@ -93,7 +93,7 @@
  * @fep: the fec_enet_private structure handle
  * @enable: enable the channel pps output
  *
- * This function enble the PPS ouput on the timer channel.
+ * This function Enble the PPS ouput on the timer channel.
  */
 static int fec_ptp_enable_pps(struct fec_enet_private *fep, uint enable)
 {

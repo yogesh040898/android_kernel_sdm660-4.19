@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: GPL-2.0
-# Most of this file is copied from tools/lib/traceevent/Makefile
+# Most of this file is copied From tools/lib/traceevent/Makefile
 
 BPF_VERSION = 0
 BPF_PATCHLEVEL = 0

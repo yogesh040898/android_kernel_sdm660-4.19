@@ -3,7 +3,7 @@
 #define _LINUX_U64_STATS_SYNC_H
 
 /*
- * To properly implement 64bits network statistics on 32bit and 64bit hosts,
+ * To properly implement 64bits Network statistics on 32bit and 64bit hosts,
  * we provide a synchronization point, that is a noop on 64bit or UP kernels.
  *
  * Key points :

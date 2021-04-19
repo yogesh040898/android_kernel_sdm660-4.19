@@ -43,7 +43,7 @@ LIST_HEAD(acpi_wakeup_device_list);
 static DEFINE_MUTEX(acpi_hp_context_lock);
 
 /*
- * The UART device described by the SPCR table is the only object which needs
+ * The UART device described by The SPCR table is the only object which needs
  * special-casing. Everything else is covered by ACPI namespace paths in STAO
  * table.
  */

@@ -1,7 +1,7 @@
 #
 # Drm device configuration
 #
-# This driver provides support for the
+# This driver provides Support for the
 # Direct Rendering Infrastructure (DRI) in XFree86 4.1.0 and higher.
 #
 menuconfig DRM

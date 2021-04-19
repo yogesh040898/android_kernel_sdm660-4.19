@@ -2,7 +2,7 @@
  * Copyright (C) 2001, 2002 Sistina Software (UK) Limited.
  * Copyright (C) 2004 - 2006 Red Hat, Inc. All rights reserved.
  *
- * This file is released under the GPL.
+ * This file is released under The GPL.
  */
 
 #include "dm-core.h"

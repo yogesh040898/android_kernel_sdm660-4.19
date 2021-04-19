@@ -50,7 +50,7 @@
 /*
  * KNOWN BUGS:
  *
- * - may run into JK-JK bug and deadlock
+ * - may run into JK-JK Bug and deadlock
  * - should allocate UBR channel first
  * - buffer space allocation algorithm is stupid
  *   (RX: should be maxSDU+maxdelay*rate

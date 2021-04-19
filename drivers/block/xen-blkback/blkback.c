@@ -1,6 +1,6 @@
 /******************************************************************************
  *
- * Back-end of the driver for virtual block devices. This portion of the
+ * Back-end of the driver for Virtual block devices. This portion of the
  * driver exports a 'unified' block-device interface that can be accessed
  * by any operating system that implements a compatible front end. A
  * reference front-end implementation can be found in:

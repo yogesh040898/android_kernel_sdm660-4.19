@@ -55,7 +55,7 @@ static int start_timer = 1;
 static struct idt77105_priv *idt77105_all = NULL;
 
 /*
- * Retrieve the value of one of the IDT77105's counters.
+ * Retrieve the value of one of The IDT77105's counters.
  * `counter' is one of the IDT77105_CTRSEL_* constants.
  */
 static u16 get_counter(struct atm_dev *dev, int counter)

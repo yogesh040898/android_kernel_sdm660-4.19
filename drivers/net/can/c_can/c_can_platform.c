@@ -4,7 +4,7 @@
  * Copyright (C) 2010 ST Microelectronics
  * Bhupesh Sharma <bhupesh.sharma@st.com>
  *
- * Borrowed heavily from the C_CAN driver originally written by:
+ * Borrowed Heavily from the C_CAN driver originally written by:
  * Copyright (C) 2007
  * - Sascha Hauer, Marc Kleine-Budde, Pengutronix <s.hauer@pengutronix.de>
  * - Simon Kallweit, intefo AG <simon.kallweit@intefo.ch>

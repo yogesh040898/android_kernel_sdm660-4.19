@@ -278,7 +278,7 @@ struct netsec_priv {
 	bool rx_cksum_offload_flag;
 };
 
-struct netsec_de { /* Netsec Descriptor layout */
+struct netsec_de { /* Netsec Descriptor Layout */
 	u32 attr;
 	u32 data_buf_addr_up;
 	u32 data_buf_addr_lw;

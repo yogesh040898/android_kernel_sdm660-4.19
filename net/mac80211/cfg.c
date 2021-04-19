@@ -62,7 +62,7 @@ static int ieee80211_set_mon_options(struct ieee80211_sub_if_data *sdata,
 	struct ieee80211_local *local = sdata->local;
 	struct ieee80211_sub_if_data *monitor_sdata;
 
-	/* check flags first */
+	/* check Flags first */
 	if (params->flags && ieee80211_sdata_running(sdata)) {
 		u32 mask = MONITOR_FLAG_COOK_FRAMES | MONITOR_FLAG_ACTIVE;
 

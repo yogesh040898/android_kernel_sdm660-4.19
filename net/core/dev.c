@@ -20,7 +20,7 @@
  *              Pekka Riikonen <priikone@poesidon.pspt.fi>
  *
  *	Changes:
- *              D.J. Barrow     :       Fixed bug where dev->refcnt gets set
+ *              D.J. Barrow     :       Fixed bug Where dev->refcnt gets set
  *                                      to 2 if register_netdev gets called
  *                                      before net_dev_init & also removed a
  *                                      few lines of code in the process.
